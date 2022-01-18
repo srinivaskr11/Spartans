@@ -1,2 +1,2 @@
 # Spartans
-Spartans groups repo
+Spartans group repo
